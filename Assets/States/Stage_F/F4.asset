@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F4
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03pm\n\nEm um s\xFAbito, Crisitina se levanta, agarra suas coisas
+    e sai depressa pela porta. E mais uma vez voc\xEA fica ali parado, sem coragem
+    de reagir e lastimando sua pr\xF3pria covardia, pensando no mau que est\xE1 causando
+    a Crisitina. Voc\xEA se encontra apegado ao amor que sente por ela e sente que
+    deve lutar por isso. Mas de alguma forma isso soa t\xE3o errado. \nSua confus\xE3o
+    e sua perda de mem\xF3ria, olhou para o rel\xF3gio e era tarde o suficiente para
+    continuar esperando ela voltar. Cristina n\xE3o voltou, e voc\xEA ir\xE1 tentar
+    novamente.\n\n[ 1 ] ... "
+  nextStates:
+  - {fileID: 11400000, guid: 5b0381da7297d4598872837ed3d6fb9e, type: 2}

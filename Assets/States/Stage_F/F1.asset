@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F1
+  m_EditorClassIdentifier: 
+  storyText: ">>> 11:55am <<<\n\nAo telefone voc\xEA pede desculpar pelo seu comportamento
+    mais cedo. Ela diz que voc\xEA pode ser muito bobo e imaturo quando se esfor\xE7a.
+    E os dois riem da situa\xE7\xE3o. \n\n[ 1 ] Continuar na linha com Cristina."
+  nextStates:
+  - {fileID: 11400000, guid: b7be09e8b829a41ab9574a30583822a1, type: 2}

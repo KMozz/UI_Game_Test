@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: H1
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03pm\n\nSentada no sofa, ela olha para a porta e o v\xEA saindo,
+    sentindo muita dor, e afli\xE7\xE3o. Por\xE9m voc\xEA deu a Crisitna o al\xEDvio,
+    atrav\xE9s da coragem em tomar a decis\xE3o certa. \nVoc\xEA caminha lentamente
+    e diz adeus. \nAos poucos sua mente se liberta em um vazio aconchegante.\nCristina
+    solta de tua m\xE3o, e diz aos m\xE9dicos que concorda. Ent\xE3o os aparelhos
+    s\xE3o desligados. Ela fica ali, at\xE9 o ultimo sopro de tua vida, para ter
+    certeza que voc\xEA viver\xE1 para sempre com ela em todas as lembran\xE7as e
+    mem\xF3rias. \nTudo em voc\xEA agora se apagou. \nCristina vive.\n\n[ 1 ] "
+  nextStates:
+  - {fileID: 0}

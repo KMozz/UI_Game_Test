@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: C4
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:30 <<<\n\nEla n\xE3o gostou muito da id\xE9a, mas olhou para
+    voc\xEA e disse que se quiser ir que se apronte depressa, caso contr\xE1rio fique
+    em casa e me espere voltar. \n\n[ 1 ] Ir com ela.\n\n[ 2 ] Decidir ficar."
+  nextStates:
+  - {fileID: 11400000, guid: 1cbffc2ba934a4bd6ac43f6edf4c3ae0, type: 2}
+  - {fileID: 11400000, guid: 49f675a1f9c9e4388995549f3709eca5, type: 2}

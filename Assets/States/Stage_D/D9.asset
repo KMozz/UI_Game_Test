@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: D9
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:20am\n\nUm vento frio, morbido que lhe assusta entra pela porta.
+    \nVoc\xEA acredita que de alguma forma aquela sensa\xE7\xE3o lhe trouxe algum
+    tipo de mensagem?\nTudo o que est\xE1 acontecendo n\xE3o est\xE1 acontecendo
+    por um acaso?\n\n[ 1 ] Fechar a porta.\n\n[ 2 ] Tentar entender seus sentimentos
+    ali naquele momento."
+  nextStates:
+  - {fileID: 11400000, guid: ae333324fa6d14f75930cb35071fff0b, type: 2}
+  - {fileID: 11400000, guid: 37c2f7d76c4d44291b72e60658753900, type: 2}

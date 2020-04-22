@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: B4
+  m_EditorClassIdentifier: 
+  storyText: ">>> 7:30am <<<\n\nCristina sai de casa,  confusa, com raiva e achando
+    que voc\xEA fez uma brincadeira de muito mau gosto. A porta bate com for\xE7a.\n\n\n\n[
+    1 ] Seguir Cristina sem que ela perceba. \n\n\n\n[ 2 ] Procurar o celular."
+  nextStates:
+  - {fileID: 11400000, guid: 5334018d33b3940b7a812f64b7a06697, type: 2}
+  - {fileID: 11400000, guid: e638f6765856645aab8c389ac0e61bb3, type: 2}

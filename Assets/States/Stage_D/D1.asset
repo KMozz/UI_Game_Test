@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: D1
+  m_EditorClassIdentifier: 
+  storyText: ">>> 9:05 am <<<\n\nIsso n\xE3o foi muito legal, e crisitina n\xE3o
+    respondeu bem a tua atitude. \nFuriosa Cristina sai.\n\n[ 1 ] Deixar que ela
+    saia."
+  nextStates:
+  - {fileID: 11400000, guid: 41dacb4a51bc24860a996a74f1eb62d2, type: 2}

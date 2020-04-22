@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: E5
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03 <<<\n\nO seu grito foi angustiador, ao olhar no rel\xF3gio
+    e saber que o tempo havia se esgotado. E nada poderia explicar o que aconteceu,
+    a ultima coisa que se lembra \xE9 de oferecer carona a Cristina enquanto ela
+    ainda estava na porta. \nAo se lembrar do sorriso de Cristina naquele momento,
+    o mundo a seu redor se fechou em seu peito. \nEla n\xE3o voltar\xE1, e voc\xEA
+    se afunda, oque havia acontecido? O que aconteceu nesse tempo todo? \xC9 como
+    se tudo tivesse sido apagado e junto Cristina. \n\n[ 1 ] ..."
+  nextStates:
+  - {fileID: 11400000, guid: 5b0381da7297d4598872837ed3d6fb9e, type: 2}

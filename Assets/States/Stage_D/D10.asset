@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: D10
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:40am\n\nTudo se torna confuso e limitado pra voc\xEA, e sua culpa
+    almenta por ter feito Cristina sofrer. A porta se escancarou e um terr\xEDvel
+    vento frio entrou e invadiu a sala. Voc\xEA se levanta e caminha em dire\xE7\xE3o
+    a porta.\n\n[ 1 ] Fechar a porta.\n\n[ 2 ] Deixar a porta aberta."
+  nextStates:
+  - {fileID: 11400000, guid: 2abac0f6f68ea4d489bc92661e16ff6c, type: 2}
+  - {fileID: 11400000, guid: 8c89f412794ee4bc1a75a56617fdab28, type: 2}

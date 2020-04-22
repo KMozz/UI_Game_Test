@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: D4
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03 <<<\n\nVoc\xEA est\xE1 alucinando ou o que est\xE1 acontecendo?\nEla
+    resolveu ficar preocupada com voc\xEA n\xE3o estar bem, mas assim que ela foi
+    at\xE9 cozinha buscar algo para voc\xEA tomar, voc\xEA olha para o rel\xF3gio
+    e percebeu que muito tempo havia passado, como em um piscar de olhos. voc\xEA
+    vai at\xE9 a cozinha, nos quartos, volta para a sala, procura nos babheiros e
+    na garagem, mas n\xE3o h\xE1 sinal de Cristina, voc\xEA a chama e seu pr\xF3prio
+    eco lhe consome. os corredores se alongam e voc\xEA \xE9 sugado para dentro de
+    seus pensamentos. Cristina sumiu novamente. \n\n[ 1 ] ..."
+  nextStates:
+  - {fileID: 11400000, guid: 5b0381da7297d4598872837ed3d6fb9e, type: 2}

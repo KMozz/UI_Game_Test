@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:00am <<<\n\nCristina n\xE3o gosta muito da id\xE9ia de ficar
+    em casa, pois ir ao mercado do centro da cidade \xE9 um costume e uma necessidade.
+    N\xE3o sobra muito tempo para ir as compras na semana. Tentando brincar com voc\xEA
+    ela quer saber o que acha de n\xE3o ter comida durante a semana. \n\n[ 1 ] Entrar
+    na brincadeira e dizer que n\xE3o liga de comer ovos e macarr\xE3o instant\xE2neo
+    a semana toda.\n\n[ 2 ] Se oferecer ir com ela ao mercado. "
+  nextStates:
+  - {fileID: 11400000, guid: 2e7adf76881c1403d8a875ad886ce018, type: 2}
+  - {fileID: 11400000, guid: 5be4c5a5653264fccb5f7a5a6202143e, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F3
+  m_EditorClassIdentifier: 
+  storyText: ">>> 9:18am <<<\n\nVoc\xEA gritou por socorro, e percebeu que Cristina
+    havia desmaiado por sofrer uma terr\xEDvel pancada na cabe\xE7a ao cair no ch\xE3o.
+    \nE a ajuda demorou muito a chagar. \nUma mistura de \xF3dio e dor invadiu seu
+    peito. A dor em ver uma pessoa t\xE3o especial sofrer, e n\xE3o poder fazer nada
+    para impedir. \nA ambul\xE2ncia seguiu para o hospital, e voc\xEA o tempo todo
+    ao lado dela. \n\n[ 1 ] Depois de um bom tempo, os m\xE9dicos trazem a not\xEDcia. "
+  nextStates:
+  - {fileID: 11400000, guid: 48e446951f16a4ded808212c1fc389c3, type: 2}

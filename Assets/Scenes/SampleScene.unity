@@ -1073,9 +1073,8 @@ MonoBehaviour:
     New Text New Text New Text New Text New Text New Text New Text New Text New Text
     New Text New Text New Text New Text New Text New Text New Text '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: e06b38c687ed44df59e9932e99bb33af, type: 2}
-  m_sharedMaterial: {fileID: 8668136896828849939, guid: e06b38c687ed44df59e9932e99bb33af,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

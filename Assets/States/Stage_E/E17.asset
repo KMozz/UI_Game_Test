@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: E17
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:20am\n\nVoc\xEA sabe que errou, e parece que tudo que tente fazer
+    parece muito errado. Voc\xEA se sente na obriga\xE7\xE3o de lutar pelo seu apego
+    a Crisitina, mas n\xE3o se esquece do medo que sente. Ela te pede para voltar.\n\nEspere,
+    \xE9 isso mesmo que voc\xEA ouviu? Ela te pediu para voltar?\n\nMas ela acabou
+    de sair de casa. \n\n[ 1 ] Sil\xEAncio. "
+  nextStates:
+  - {fileID: 11400000, guid: 748a3a4bb40124348a7fe5bb21aeee9c, type: 2}

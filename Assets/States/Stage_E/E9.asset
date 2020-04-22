@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: E9
+  m_EditorClassIdentifier: 
+  storyText: ">>> 9:30am\n\nAlgo est\xE1 diferente, seu medo cresce, e com esse medo
+    uma certeza, deixar Cristina viver. Pois se ela sair por aquela porta, com certeza
+    voc\xEA n\xE3o a ver\xE1 novamente. \nLentamente voc\xEA vai ganhando certeza
+    do que fazer. \nCristina se levanta. \n\n[ 1 ] Olhar em seus olhos. \n\n[ 2 ]
+    Segurar Cristina pelo bra\xE7o.  "
+  nextStates:
+  - {fileID: 11400000, guid: 2abac0f6f68ea4d489bc92661e16ff6c, type: 2}
+  - {fileID: 11400000, guid: d91294283f3e04b978032de845f2ed2c, type: 2}

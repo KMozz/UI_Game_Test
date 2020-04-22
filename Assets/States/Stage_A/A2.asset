@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: ">>> 7:10am <<<\n\nAssim que ela sai do banho voc\xEA se aproxima e
+    aos poucos tenta explicar o que est\xE1 acontecendo. Voc\xEA fala sobre o loop,
+    por\xE9m decide n\xE3o falar nada sobre as 12:03pm, pensando em n\xE3o assusta-la.\n\nConfusa
+    e furiosa com voc\xEA, Cristina n\xE3o recebe a noticia muito bem. Mas voc\xEA
+    parece decidido em continuar, o que ir\xE1 dizer em seguida? \n\n\n\n[ 1 ]  Dizer
+    que anda tendo apag\xF5es de mem\xF3ria.\n\n\n\n[ 2 ] Insistir, dizer que \xE9
+    verdade e que acredite em voc\xEA.  \n\n "
+  nextStates:
+  - {fileID: 11400000, guid: 9f14fc8287e70481f91640752541be1d, type: 2}
+  - {fileID: 11400000, guid: 87a0a70e96d464c6cb2aed4075a8d3e7, type: 2}

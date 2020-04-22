@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: G7
+  m_EditorClassIdentifier: 
+  storyText: ">>> 11:50am <<<\n\nQuando Cristina percebe que voc\xEA vem caminhano
+    em sua dire\xE7\xE3o e segurando sua bolsa, ela perde o controle de suas emo\xE7\xF5es,
+    olhos de ira e desacreditando o qu\xE3o cretino voc\xEA est\xE1 sendo esse dia.
+    \nCertamente isso foi muito, mais do que ela poderia suportar. Um dia repleto
+    de imperfei\xE7\xF5es, mentiras imaturas, e brincadeiras de muito mau gosto.
+    \n\n[ 1 ] Cristina pega todas as sacolas e bolsas e sai da cafeteria, pedindo
+    pra voc\xEA se afastar. "
+  nextStates:
+  - {fileID: 0}

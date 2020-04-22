@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: G8
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03 <<<\n\nDepois de uma longa discuss\xE3o at\xE9 com o gerente
+    do local, ela se cansa de toda a cena e resolve sair, Pega suas sacolas e sai
+    em passos largos, atravessa a rua sem olhar para os lados, e de dentro da cafeteria
+    voc\xEA v\xEA sacolas se espalharem pelo ch\xE3o, se misturando com o sangue
+    que escorria. \nEm teu arredores, o mundo foi se estreitando em uma escurid\xE3o
+    densa, seu corpo pesando e sua consci\xEAncia sendo diminuida por um pesado ar,
+    cada vez mais denso, at\xE9 que resta apenas recome\xE7ar.\n\n[ 1 ] ... "
+  nextStates:
+  - {fileID: 0}

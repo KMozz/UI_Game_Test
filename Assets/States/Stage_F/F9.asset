@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F9
+  m_EditorClassIdentifier: 
+  storyText: ">>> 11:15pm <<<\n\nCristina procura sua bolsa, provavelmente para pegar
+    o celular, de longe voc\xEA observa suas emo\xE7\xF5es irem de aborrecida por
+    tua causa, tuas mentiras sobre estarem vivendo um loop dia ap\xF3s dia, para
+    uma emo\xE7\xE3o de p\xE2nico. \nEla chama o atendente da cafeteria, e aponta
+    para a mesa, fazendo largos gestos de angustia. E o m\xE1ximo que o atendente
+    retribuia era balan\xE7ar a cabe\xE7a em sinal de impot\xEAncia. \n\n[ 1 ] -
+    Ter pena e devolver a bolsa.\n[ 2 ] - Deixar que tudo aconte\xE7a."
+  nextStates:
+  - {fileID: 11400000, guid: b8c05da5908f64872bcf327ef0b6c7dc, type: 2}
+  - {fileID: 11400000, guid: c0cb9ba84a20341fa9dd6151d748ac93, type: 2}

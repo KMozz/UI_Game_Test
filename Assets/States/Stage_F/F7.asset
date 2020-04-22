@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F7
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:30am\n\nN\xE3o h\xE1 antes e nem depois, somente este agora.
+    E esse tempo fica voltando, mas nunca com voc\xEAs juntos. Ela sempre vai embora.
+    Ent\xE3o voc\xEA percebe. E diz a s\xED mesmo \xE9 isso! \xC9 isso. \n\n[ 1 ]
+    Voc\xEA acha mesmo que isso poder\xE1 funcionar?\n\n[ 2 ] N\xE3o pode ser, n\xE3o
+    pode ser!"
+  nextStates:
+  - {fileID: 11400000, guid: 6220a470a863341b78c07ad89c0223da, type: 2}
+  - {fileID: 11400000, guid: 27320100830a7471f858c2b08148cc3b, type: 2}

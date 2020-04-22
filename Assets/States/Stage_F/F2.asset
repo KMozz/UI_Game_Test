@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: ">>> 12:03 <<<\n\nVoc\xEA ainda tem esperan\xE7a que Cristina volte,
+    e entre por aquela porta. \nVoc\xEA se encontra sozinho em casa, e neste momento
+    voc\xEA sabe que ela n\xE3o ir\xE1 voltar. \nSeu ch\xE3o escurece, e todo o ar
+    do ambiente se torna denso e pesado, \xE9 vencido pela escurid\xE3o de sua mem\xF3ria
+    agora vazia, e seus sentidos se apagam vagarozamente. Cristina se foi, esse foi
+    teu ultimo pensamento, e a escurid\xE3o invadiu tudo.  \n\n[ 1 ] ..."
+  nextStates:
+  - {fileID: 11400000, guid: 5b0381da7297d4598872837ed3d6fb9e, type: 2}

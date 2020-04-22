@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: E16
+  m_EditorClassIdentifier: 
+  storyText: "12:03pm\n\nDepois que desligou o telefone e o momento chegado, ainda
+    tem espera\xE7a de que algo certo desta vez acontecer\xE1, mas o mesmo sentimento
+    de fracasso avassala seu peito. Cristina se foi. \n\n[ 1 ] ..."
+  nextStates:
+  - {fileID: 11400000, guid: 5b0381da7297d4598872837ed3d6fb9e, type: 2}

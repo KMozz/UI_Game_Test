@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: D11
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:00am\n\nVoc\xEA acredita que pode tocar Crisitna com o cora\xE7\xE3o?
+    Com todo amor que sente por ela? Voc\xEA acredita que pode salva-la?\n\n[ 1 ]
+    Sim\n\n[ 2 ] Deve haver um jeito."
+  nextStates:
+  - {fileID: 11400000, guid: 447203638261a4c689d39ac91555c58b, type: 2}
+  - {fileID: 11400000, guid: 2808f8e5d69364e6984965b137ca2ee9, type: 2}

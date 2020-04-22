@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: C5
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:12am\n\nSua rendi\xE7\xE3o trouxe um enorme peso a Crisitna,
+    ela se encontra desolada e perdida em seu mundo que se afunda em tristezas. Voc\xEA
+    pode sentir cada suspiro dela como se fossem teus. Quando neste momento voc\xEA
+    ouve a porta se abrir. \n\n[ 1 ] Ir at\xE9 a porta.\n\n[ 2 ] Olhar para a porta"
+  nextStates:
+  - {fileID: 11400000, guid: 15ee6108bc29044f7a1989627cb6e306, type: 2}
+  - {fileID: 11400000, guid: 46c071f7c36e34536a2b747364e28585, type: 2}

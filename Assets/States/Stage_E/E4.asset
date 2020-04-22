@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: E4
+  m_EditorClassIdentifier: 
+  storyText: ">>> 9:15 <<<\n\nChegando ao mercado, voc\xEA refaz os passos de Cristina
+    a dist\xE2ncia, Percebe uma movimenta\xE7\xE3o estranha logo \xE0 frente, mas
+    se mantem distante. \nInesperadamente, um homem sai correndo pelos corredores
+    do mercado, e voc\xEA corre em dire\xE7\xE3o a Cristina, numa rea\xE7\xE3o involunt\xE1ria
+    ela se op\xF5e no caminho deste homem, que empurra ela com muita for\xE7a. \n\n[
+    1 ] "
+  nextStates:
+  - {fileID: 11400000, guid: 0ee04987eca3e47eeb417663790a3aad, type: 2}

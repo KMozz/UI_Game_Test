@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
   m_Name: GameIntro
   m_EditorClassIdentifier: 
-  storyText: "Aqui ser\xE1 a intro do game, informando que bot\xF5es ser\xE3o necess\xE1rios
-    apertar, e mais pra frente do jogo teremos uma tecla \"q\" para quit game. "
+  storyText: ">>> 7:00am <<<\n\n\n\nNo inicio voc\xEA n\xE3o conseguia acreditar
+    em tudo que esta acontecendo. Algo inemagin\xE1vel, mas que mesmo assim est\xE1
+    acontecendo. \n\nVoc\xEA est\xE1 preso em um loop, o mesmo momento se repete
+    e por mais que voc\xEA tente fazer algo diferente, sempre o mesmo resultado,
+    voc\xEA perde Cristina. \n\n\n\n\n\n[pressione 1 para continuar]\n\n[pressione
+    ... para desistir]"
   nextStates:
   - {fileID: 11400000, guid: 9f597a3c333084d86898145bf3f31284, type: 2}

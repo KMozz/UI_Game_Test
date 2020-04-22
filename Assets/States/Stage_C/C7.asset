@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05bec937168e74d5bb446b243fd33727, type: 3}
+  m_Name: C7
+  m_EditorClassIdentifier: 
+  storyText: ">>> 8:05am <<<\n\nAssim que ela chega ao mercado, vai direto para a
+    ala de peixes. \n\nVoc\xEA tenta ao m\xE1ximo manter dist\xE2ncia, se ela o vir 
+    n\xE3o vai gostar nadinha, ainda mais nervosa como est\xE1. Voc\xEA est\xE1 se
+    sentindo um idiota, mas a tentativa, mesmo que absurda, n\xE3o podedia ser descartada.
+    \n\n\n\n[ 1 ] Continuar seguindo."
+  nextStates:
+  - {fileID: 11400000, guid: b34aaca7d0e47405e83d833139956ac4, type: 2}
